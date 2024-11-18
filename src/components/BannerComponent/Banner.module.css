@@ -1,0 +1,20 @@
+.main_back {
+    background-image: url('https://avatars.mds.yandex.net/i?id=4ec852562807166c95dcc8367a60c7c4_l-5350948-images-thumbs&n=13');
+    background-repeat: no-repeat;
+    height: 867px;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+}
+
+.txt {
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    z-index: 1;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #D9D9D9;
+    font-weight: bold;
+}
+

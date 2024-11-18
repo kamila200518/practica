@@ -1,0 +1,52 @@
+export let products = [
+    {
+        id: 1,
+        img: "https://images.drive.ru/i/0/5742a4dcec05c4f44b0008ac.jpeg",
+        name: "BMW",
+        price: 600000000,
+        count: 12,
+        category: 1
+    }, {
+        id: 2,
+        img: "https://top-tuning.ru/upload/images/news/101288/Suzuka-Grey-Metallic-Audi-R8-V10-Plus-4.jpg",
+        name: "Audi",
+        price: 2300000,
+        count: 0,
+        category: 2
+    }, {
+        id: 3,
+        img: "https://img.goodfon.com/wallpaper/nbig/b/4a/lexus-rx-200t-krossover-chiornyi.webp",
+        name: "Lexus",
+        price: 140000000,
+        count: 12,
+        category: 3
+    }, {
+        id: 4,
+        img: "https://images.carid.com/xo/wheels/xo-verona-satin-black-lexus-lc500.jpg",
+        name: "Mazda",
+        price: 50000000,
+        count: 12,
+        category: 1
+    }, {
+        id: 5,
+        img: "https://a.d-cd.net/edf84f9s-1920.jpg",
+        name: "Ford",
+        price: 3440000,
+        count: 12,
+        category: 2
+    }, {
+        id: 6,
+        img: "https://top-tuning.ru/upload/images/news/104093/ferrari_812_gts.jpg",
+        name: "Ferrai",
+        price: 80000000000,
+        count: 12,
+        category: 3
+    }, {
+        id: 7,
+        img: "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6612074d2db346567a00a119_66120aaff18eec5c865dc79e/scale_1200",
+        name: "Bently",
+        price: 1900000000,
+        count: 12,
+        category: 1
+    }
+];
